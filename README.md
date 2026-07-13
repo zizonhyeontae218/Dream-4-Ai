@@ -1,5 +1,7 @@
 # Dream-4-AI: Rebuilding Language with Stalin Sort
 
+> **한국어:** [README.ko.md](README.ko.md)
+
 
 > Not a text generator.  
 > A language demolition device.  
